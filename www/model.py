@@ -1,2 +1,2 @@
-import time,uuid
-from
+import time, uuid
+from orm import Model, StringField, BooleanField, FloatField, TextField
